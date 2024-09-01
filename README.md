@@ -1,5 +1,4 @@
 				Windows CMD All Commands
-				File Developed by Amresh Mallick
 				An A-Z Index of Windows CMD commands.
 A 	  	 
   	ADDUSERS 	Add or list users to/from a CSV file
